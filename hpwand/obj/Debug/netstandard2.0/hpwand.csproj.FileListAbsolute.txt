@@ -1,0 +1,15 @@
+/Users/pablo/Projects/hpwand/hpwand/obj/Debug/netstandard2.0/hpwand.csproj.AssemblyReference.cache
+/Users/pablo/Projects/hpwand/hpwand/obj/Debug/netstandard2.0/hpwand.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pablo/Projects/hpwand/hpwand/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/pablo/Projects/hpwand/hpwand/obj/Debug/netstandard2.0/hpwand.AssemblyInfoInputs.cache
+/Users/pablo/Projects/hpwand/hpwand/obj/Debug/netstandard2.0/hpwand.AssemblyInfo.cs
+/Users/pablo/Projects/hpwand/hpwand/obj/Debug/netstandard2.0/hpwand.csproj.CoreCompileInputs.cache
+/Users/pablo/Projects/hpwand/hpwand/bin/Debug/netstandard2.0/hpwand.deps.json
+/Users/pablo/Projects/hpwand/hpwand/bin/Debug/netstandard2.0/hpwand.dll
+/Users/pablo/Projects/hpwand/hpwand/bin/Debug/netstandard2.0/ref/hpwand.dll
+/Users/pablo/Projects/hpwand/hpwand/bin/Debug/netstandard2.0/hpwand.pdb
+/Users/pablo/Projects/hpwand/hpwand/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/pablo/Projects/hpwand/hpwand/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/pablo/Projects/hpwand/hpwand/obj/Debug/netstandard2.0/hpwand.dll
+/Users/pablo/Projects/hpwand/hpwand/obj/Debug/netstandard2.0/ref/hpwand.dll
+/Users/pablo/Projects/hpwand/hpwand/obj/Debug/netstandard2.0/hpwand.pdb

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="hpwand.MainPage"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
+
+    <Grid x:Name="lbackground" BackgroundColor="Black">
+
+        <Grid Margin="0,0,0,25" RowDefinitions="*,50">
+
+            <Image
+                Grid.Row="0"
+                Rotation="105"
+                Source="wandhp" />
+
+
+            <Grid
+                Grid.Row="1"
+                Margin="10,0"
+                ColumnDefinitions="*,*,*,*,*">
+
+                <Button
+                    Grid.Column="0"
+                    BackgroundColor="CornflowerBlue"
+                    Clicked="Button_Blue" />
+                <Button
+                    Grid.Column="1"
+                    BackgroundColor="IndianRed"
+                    Clicked="Button_Red" />
+                <Button
+                    Grid.Column="2"
+                    BackgroundColor="YellowGreen"
+                    Clicked="Button_Green" />
+                <Button
+                    Grid.Column="3"
+                    BackgroundColor="LightYellow"
+                    Clicked="Button_Yellow" />
+                <Button
+                    Grid.Column="4"
+                    BackgroundColor="GhostWhite"
+                    Clicked="Button_White" />
+
+            </Grid>
+        </Grid>
+    </Grid>
+</ContentPage>

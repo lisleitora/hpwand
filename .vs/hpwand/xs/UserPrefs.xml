@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{6A26BD7C-4DBE-4D2F-BD9E-D22FFA7F9FB3}|Default">
+  <MonoDevelop.Ide.ItemProperties.hpwand.Android FirstBuild="True" PreferredExecutionTarget="Android.Pixel_3a_API_30_x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="hpwand/MainPage.xaml.cs">
+    <Files>
+      <File FileName="hpwand/MainPage.xaml" Line="46" Column="15" />
+      <File FileName="hpwand/MainPage.xaml.cs" Line="27" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="hpwand" expanded="True">
+            <Node name="hpwand" expanded="True">
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.hpwand.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8715AE66-15EE-42F3-8294-D350A0CB0CFE" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
