@@ -1,9 +1,9 @@
-﻿<Properties StartupConfiguration="{6A26BD7C-4DBE-4D2F-BD9E-D22FFA7F9FB3}|Default">
-  <MonoDevelop.Ide.ItemProperties.hpwand.Android FirstBuild="True" PreferredExecutionTarget="Android.Pixel_3a_API_30_x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="hpwand/MainPage.xaml.cs">
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{6A26BD7C-4DBE-4D2F-BD9E-D22FFA7F9FB3}|Default">
+  <MonoDevelop.Ide.ItemProperties.hpwand.Android PreferredExecutionTarget="Android.Pixel_3a_API_30_x86" />
+  <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="hpwand/MainPage.xaml" Line="46" Column="15" />
-      <File FileName="hpwand/MainPage.xaml.cs" Line="27" Column="34" />
+      <File FileName="hpwand/MainPage.xaml" Line="55" Column="15" />
+      <File FileName="hpwand/MainPage.xaml.cs" Line="48" Column="73" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

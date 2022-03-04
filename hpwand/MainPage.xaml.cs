@@ -15,8 +15,9 @@ namespace hpwand
             InitializeComponent();
         }
 
-        async Task BlinkAsync(Color cor) {
-
+        async Task BlinkAsync(Color cor ,String nome,int size = 60) {
+            lnome.Text = nome;
+            lnome.FontSize = size;
             lbackground.BackgroundColor = cor;
             await Task.Delay(70);
             lbackground.BackgroundColor = Color.Black;
@@ -32,23 +33,23 @@ namespace hpwand
 
         void Button_Blue(System.Object sender, System.EventArgs e)
         {
-            BlinkAsync(Color.CornflowerBlue);
+            BlinkAsync(Color.CornflowerBlue,"Patronus");
         }
         void Button_Red(System.Object sender, System.EventArgs e)
         {
-            BlinkAsync(Color.IndianRed);
+            BlinkAsync(Color.IndianRed,"Expelliarmus");
         }
         void Button_Green(System.Object sender, System.EventArgs e)
         {
-            BlinkAsync(Color.GreenYellow);
+            BlinkAsync(Color.GreenYellow,"Avada Kedavra");
         }
         void Button_Yellow(System.Object sender, System.EventArgs e)
         {
-            BlinkAsync(Color.LightGoldenrodYellow);
+            BlinkAsync(Color.LightGoldenrodYellow,"Wingardium Leviosa",40);
         }
         void Button_White(System.Object sender, System.EventArgs e)
         {
-            BlinkAsync(Color.White);
+            BlinkAsync(Color.White,"Lumos");
         }
     }
 }
